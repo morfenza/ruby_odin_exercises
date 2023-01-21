@@ -1,2 +1,6 @@
-# ruby_odin_exercises
-Ruby project exercises from The Odin Project 
+# Ruby Exercises: Odin
+Ruby exercises/projects found in the [Odin Project](https://www.theodinproject.com/about) 
+
+## Basic Ruby
+- [Project: Caesar Cipher](https://www.theodinproject.com/lessons/ruby-caesar-cipher)
+  - [Code](./caesar_cipher/)
