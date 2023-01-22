@@ -4,3 +4,5 @@ Ruby exercises/projects found in the [Odin Project](https://www.theodinproject.c
 ## Basic Ruby
 - [Project: Caesar Cipher](https://www.theodinproject.com/lessons/ruby-caesar-cipher)
   - [Code](./caesar_cipher/)
+- [Project: Sub Strings](https://www.theodinproject.com/lessons/ruby-sub-strings)
+  - [Code](./substrings/)
