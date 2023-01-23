@@ -8,3 +8,5 @@ Ruby exercises/projects found in the [Odin Project](https://www.theodinproject.c
   - [Code](./substrings/)
 - [Project: Stock Picker](https://www.theodinproject.com/lessons/ruby-stock-picker)
   - [Code](./stock_picker/)
+- [Project: Bubble Sort](https://www.theodinproject.com/lessons/ruby-bubble-sort)
+  - [Code](./bubble_sort/)
