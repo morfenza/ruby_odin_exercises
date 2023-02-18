@@ -10,3 +10,8 @@ Ruby exercises/projects found in the [Odin Project](https://www.theodinproject.c
   - [Code](./stock_picker/)
 - [Project: Bubble Sort](https://www.theodinproject.com/lessons/ruby-bubble-sort)
   - [Code](./bubble_sort/)
+
+## Custom Enumerables
+- [Project: Custom Enumerables](https://www.theodinproject.com/lessons/ruby-custom-enumerables)
+  - [Code](./custom_ruby_enumerables/)
+  - [Forked Repo with spec tests](https://github.com/morfenza/custom_enumerable_project)
