@@ -15,3 +15,9 @@ Ruby exercises/projects found in the [Odin Project](https://www.theodinproject.c
 - [Project: Custom Enumerables](https://www.theodinproject.com/lessons/ruby-custom-enumerables)
   - [Code](./custom_ruby_enumerables/)
   - [Forked Repo with spec tests](https://github.com/morfenza/custom_enumerable_project)
+
+## Recursion
+- [Project: Recursion](https://www.theodinproject.com/lessons/ruby-recursion)
+  - [Collatz](./recursion/collatz.rb)
+  - [Fibonacci](./recursion/fibonacci.rb)
+  - [Merge Sort](./recursion/merge_sort.rb)
