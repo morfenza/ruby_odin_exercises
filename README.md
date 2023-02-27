@@ -21,3 +21,7 @@ Ruby exercises/projects found in the [Odin Project](https://www.theodinproject.c
   - [Collatz](./recursion/collatz.rb)
   - [Fibonacci](./recursion/fibonacci.rb)
   - [Merge Sort](./recursion/merge_sort.rb)
+
+## CS Section
+- [Project: Linked Lists](https://www.theodinproject.com/lessons/ruby-linked-lists)
+  - [Repo](https://github.com/morfenza/ruby_LinkedLists)
