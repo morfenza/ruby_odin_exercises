@@ -25,3 +25,5 @@ Ruby exercises/projects found in the [Odin Project](https://www.theodinproject.c
 ## CS Section
 - [Project: Linked Lists](https://www.theodinproject.com/lessons/ruby-linked-lists)
   - [Repo](https://github.com/morfenza/ruby_LinkedLists)
+- [Project: Binary Search Tree](https://www.theodinproject.com/lessons/ruby-binary-search-trees)
+  - [Repo](https://github.com/morfenza/ruby_BinarySearchTree)
